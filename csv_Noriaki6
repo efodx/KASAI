@@ -1,0 +1,100 @@
+kategorija,datum,uvrstitev,drzava,mesto,disciplina
+World Cup,06-01-2001,4,AUT,Bischofshofen,K120
+World Cup,04-01-2001,3,AUT,Innsbruck,K120
+World Cup,01-01-2001,1,GER,Garmisch-Partenkirchen,K115
+World Cup,29-12-2000,2,GER,Oberstdorf,K115
+World Cup,03-12-2000,1,FIN,Kuopio,Large Hill
+World Cup,02-12-2000,2,FIN,Kuopio,Large Hill
+World Cup,25-11-2000,5,FIN,Kuopio,Team Large Hill
+World Cup,24-11-2000,4,FIN,Kuopio,Large Hill
+Grand Prix,03-09-2000,6,JPN,Sapporo-Okura,Large Hill
+Grand Prix,02-09-2000,1,JPN,Sapporo-Okura,Large Hill
+Grand Prix,27-08-2000,2,JPN,Hakuba,Large Hill
+Grand Prix,26-08-2000,3,JPN,Hakuba,Large Hill
+Grand Prix,12-08-2000,2,AUT,Villach,Normal Hill
+Grand Prix,09-08-2000,2,FIN,Kuopio,Large Hill
+Grand Prix,06-08-2000,3,GER,Hinterzarten,Normal Hill
+Grand Prix,05-08-2000,2,GER,Hinterzarten,Team Normal H.
+World Cup,19-03-2000,5,SLO,Planica,Flying Hill
+World Cup,18-03-2000,3,SLO,Planica,Team Flying H.
+World Cup,12-03-2000,1,NOR,Oslo,K115
+World Cup,10-03-2000,7,NOR,Trondheim,K120
+World Cup,05-03-2000,1,FIN,Lahti,K116
+World Cup,04-03-2000,5,FIN,Lahti,Team K120
+World Cup,04-03-2000,8,FIN,Lahti,K90
+World Cup,27-02-2000,4,USA,"Iron Mountain, MI",Large Hill
+World Cup,19-02-2000,3,AUT,Tauplitz/Bad Mitterndorf,K180
+FIS Ski-Flying World Championships,14-02-2000,5,NOR,Vikersund,Flying Hill
+World Cup,06-02-2000,2,GER,Willingen,Large Hill
+World Cup,05-02-2000,3,GER,Willingen,Large Hill
+World Cup,26-01-2000,1,JPN,Hakuba,Large Hill
+World Cup,25-01-2000,4,JPN,Hakuba,Team Large Hill
+World Cup,23-01-2000,2,JPN,Sapporo,Large Hill
+World Cup,22-01-2000,8,JPN,Sapporo,Large Hill
+World Cup,09-01-2000,1,SUI,Engelberg,Large Hill
+World Cup,08-01-2000,4,SUI,Engelberg,Large Hill
+World Cup,06-01-2000,1,AUT,Bischofshofen,K120
+World Cup,03-01-2000,1,AUT,Innsbruck,K120
+World Cup,01-01-2000,1,GER,Garmisch-Partenkirchen,K115
+World Cup,29-12-1999,4,GER,Oberstdorf,K115
+World Cup,19-12-1999,1,POL,Zakopane,Large Hill
+World Cup,18-12-1999,3,POL,Zakopane,Large Hill
+World Cup,12-12-1999,1,AUT,Villach,Normal Hill
+World Cup,05-12-1999,1,ITA,Val di Fiemme,Large Hill
+World Cup,04-12-1999,5,ITA,Val di Fiemme,Large Hill
+World Cup,28-11-1999,1,FIN,Kuopio,Large Hill
+World Cup,27-11-1999,5,FIN,Kuopio,Large Hill
+Grand Prix,07-08-1999,2,GER,Hinterzarten,Team K100
+World Cup,21-03-1999,1,SLO,Planica,K180
+World Cup,20-03-1999,3,SLO,Planica,K180
+World Cup,19-03-1999,4,SLO,Planica,K180
+World Cup,14-03-1999,1,NOR,Oslo,K115
+World Cup,11-03-1999,4,SWE,Falun,K120
+World Cup,09-03-1999,1,NOR,Trondheim,Large Hill
+World Cup,06-03-1999,5,FIN,Lathi,K90
+World Cup,04-03-1999,3,FIN,Koupio,Large Hill
+World Ski Championships,26-02-1999,5,AUT,Ramsau,Normal Hill
+World Ski Championships,21-02-1999,1,AUT,Ramsau,Large Hill
+World Ski Championships,20-02-1999,2,AUT,Ramsau,Team K120
+World Cup,31-01-1999,1,GER,Willingen,Large Hill
+World Cup,30-01-1999,1,GER,Willingen,Team Large Hill
+World Cup,29-01-1999,1,GER,Willingen,Large Hill
+World Cup,24-01-1999,1,JPN,Sapporo,Large Hill
+World Cup,23-01-1999,6,JPN,Sapporo,Large Hill
+World Cup,17-01-1999,1,POL,Zakopane,Large Hill
+World Cup,16-01-1999,5,POL,Zakopane,Large Hill
+World Cup,10-01-1999,3,SUI,Engelberg,Large Hill
+World Cup,09-01-1999,3,SUI,Engelberg,Large Hill
+World Cup,06-01-1999,4,AUT,Bischofshofen,K120
+World Cup,03-01-1999,1,AUT,Innsbruck,K120
+World Cup,01-01-1999,3,GER,Garmisch-Partenkirchen,K115
+World Cup,30-12-1998,3,GER,Oberstdorf,K115
+World Cup,20-12-1998,2,CZE,Harrachov,Large Hill
+World Cup,19-12-1998,1,CZE,Harrachov,Large Hill
+World Cup,12-12-1998,1,GER,Oberhof,Large Hill
+World Cup,08-12-1998,3,ITA,Predazzo/Val di Fiemme,K120
+World Cup,06-12-1998,6,FRA,Chamonix,Normal Hill
+World Cup,05-12-1998,5,FRA,Chamonix,Normal Hill
+World Cup,29-11-1998,3,NOR,Lillehammer,Large Hill
+World Cup,28-11-1998,5,NOR,Lillehammer,Large Hill
+World Cup,22-03-1998,1,SLO,Planica,Large Hill
+World Cup,21-03-1998,4,SLO,Planica,Large Hill
+World Cup,15-03-1998,3,NOR,Oslo,K115
+World Cup,13-03-1998,2,NOR,Trondheim,K120
+World Cup,11-03-1998,1,SWE,Falun,K120
+World Cup,08-03-1998,8,FIN,Lahti,K120
+World Cup,07-03-1998,1,FIN,Lahti,Large Hill
+World Cup,04-03-1998,5,FIN,Kuopio,Large Hill
+World Cup,01-03-1998,3,NOR,Vikersund,K180
+World Cup,01-03-1998,1,NOR,Vikersund,K180
+Olympic Winter Games,11-02-1998,7,JPN,Nagano,Normal Hill
+World Cup,05-02-1998,3,JPN,Sapporo,Large Hill
+World Cup,06-01-1998,3,AUT,Bischofshofen,K120
+World Cup,04-01-1998,2,AUT,Innsbruck,K120
+World Cup,29-12-1997,6,GER,Oberstdorf,K115
+World Cup,21-12-1997,7,SUI,Engelberg,Large Hill
+World Cup,20-12-1997,4,SUI,Engelberg,Large Hill
+World Cup,12-12-1997,1,CZE,Harrachov,K90
+World Cup,08-12-1997,1,AUT,Villach,Normal Hill
+World Cup,06-12-1997,7,ITA,Predazzo,Large Hill
+World Cup,30-11-1997,7,NOR,Lillehammer,Large Hill

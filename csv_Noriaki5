@@ -1,0 +1,101 @@
+kategorija,datum,uvrstitev,drzava,mesto,disciplina
+World Cup,25-01-2004,2,JPN,Sapporo,K120
+World Cup,24-01-2004,8,JPN,Sapporo,K120
+World Cup,23-01-2004,4,JPN,Hakuba,K120
+World Cup,06-01-2004,1,AUT,Bischofshofen,K125
+World Cup,04-01-2004,6,AUT,Innsbruck,K120
+World Cup,01-01-2004,6,GER,Garmisch-Partenkirchen,K115
+World Cup,29-12-2003,5,GER,Oberstdorf,K115
+World Cup,20-12-2003,1,SUI,Engelberg,K120
+World Cup,14-12-2003,6,GER,Titisee-Neustadt,K120
+World Cup,06-12-2003,2,NOR,Trondheim,K120
+World Cup,30-11-2003,1,FIN,Kuusamo,K120
+World Cup,28-11-2003,1,FIN,Kuusamo,K120
+Grand Prix,31-08-2003,1,AUT,Innsbruck,K120
+Grand Prix,29-08-2003,3,ITA,Val di Fiemme,K120
+Grand Prix,14-08-2003,3,FRA,Courchevel,K120
+Grand Prix,10-08-2003,2,GER,Hinterzarten,K95
+Grand Prix,09-08-2003,6,GER,Hinterzarten,Team K95
+World Cup,23-03-2003,7,SLO,Planica,K185
+World Cup,22-03-2003,3,SLO,Planica,K185
+World Cup,21-03-2003,6,SLO,Planica,Team K185
+World Cup,15-03-2003,1,FIN,Lahti,K116
+World Cup,14-03-2003,6,FIN,Lahti,K116
+World Cup,09-03-2003,5,NOR,Oslo,K115
+World Cup,08-03-2003,4,NOR,Oslo,Team K115
+World Ski Championships,28-02-2003,3,ITA,Val di Fiemme,K95
+World Ski Championships,23-02-2003,2,ITA,Val di Fiemme,Team K120
+World Ski Championships,22-02-2003,3,ITA,Val di Fiemme,K120
+World Cup,09-02-2003,1,GER,Willingen,K120
+World Cup,08-02-2003,1,GER,Willingen,K120
+World Cup,02-02-2003,1,AUT,Tauplitz/Bad Mitterndorf,K185
+World Cup,01-02-2003,1,AUT,Tauplitz/Bad Mitterndorf,K185
+World Cup,26-01-2003,2,JPN,Sapporo,K120
+World Cup,25-01-2003,1,JPN,Sapporo,K120
+World Cup,23-01-2003,9,JPN,Hakuba,K120
+Continental Cup,12-01-2003,3,JPN,Sapporo Okura,K120
+Continental Cup,11-01-2003,4,JPN,Sapporo Okura,K120
+World Cup,06-01-2003,3,AUT,Bischofshofen,K120
+World Cup,04-01-2003,1,AUT,Innsbruck,K120
+World Cup,01-01-2003,2,GER,Garmisch-Partenkirchen,K115
+World Cup,29-12-2002,2,GER,Oberstdorf,K115
+World Cup,22-12-2002,1,SUI,Engelberg,K120
+World Cup,21-12-2002,2,SUI,Engelberg,K120
+World Cup,15-12-2002,1,GER,Titisee-Neustadt,K120
+World Cup,14-12-2002,1,GER,Titisee-Neustadt,K120
+World Cup,08-12-2002,9,NOR,Trondheim,K120
+World Cup,07-12-2002,1,NOR,Trondheim,K120
+World Cup,30-11-2002,2,FIN,Kuusamo,K120
+World Cup,29-11-2002,1,FIN,Kuusamo,K120
+Grand Prix,14-09-2002,3,AUT,Innsbruck,K120
+Grand Prix,06-09-2002,2,FIN,Lahti,K120
+Grand Prix,14-08-2002,3,FRA,Courchevel,K120
+Grand Prix,11-08-2002,1,GER,Hinterzarten,K95
+World Cup,23-03-2002,4,SLO,Planica,Team Flying H.
+World Cup,17-03-2002,2,NOR,Oslo,K115
+World Cup,15-03-2002,2,NOR,Trondheim,K120
+World Cup,13-03-2002,2,SWE,Falun,K120
+Olympic Winter Games,13-02-2002,4,USA,Utah Olympic Park,K120
+Olympic Winter Games,10-02-2002,4,USA,Utah Olympic Park,K90
+World Cup,27-01-2002,2,JPN,Sapporo,Team K120
+World Cup,26-01-2002,3,JPN,Sapporo,K120
+World Cup,24-01-2002,8,JPN,Hakuba,Large Hill
+World Cup,13-01-2002,4,GER,Willingen,Team Large Hill
+World Cup,12-01-2002,1,GER,Willingen,Large Hill
+World Cup,06-01-2002,2,AUT,Bischofshofen,K120
+World Cup,04-01-2002,2,AUT,Innsbruck,K120
+World Cup,01-01-2002,3,GER,Garmisch-Partenkirchen,K115
+World Cup,16-12-2001,3,SUI,Engelberg,K120
+World Cup,15-12-2001,2,SUI,Engelberg,K120
+World Cup,09-12-2001,2,AUT,Villach,Team Normal H.
+World Cup,08-12-2001,7,AUT,Villach,Normal Hill
+World Cup,02-12-2001,2,GER,Titisee-Neustadt,Large Hill
+World Cup,01-12-2001,2,GER,Titisee-Neustadt,Large Hill
+World Cup,24-11-2001,2,FIN,Kuopio,Large Hill
+World Cup,23-11-2001,1,FIN,Kuopio,Large Hill
+Grand Prix,09-09-2001,1,JPN,Hakuba,Large Hill
+Grand Prix,08-09-2001,1,JPN,Hakuba,Large Hill
+Grand Prix,05-09-2001,3,JPN,Sapporo-Okura,Large Hill
+Grand Prix,14-08-2001,3,FRA,Courchevel,Large Hill
+Grand Prix,11-08-2001,2,GER,Hinterzarten,Normal Hill
+World Cup,18-03-2001,1,SLO,Planica,Flying Hill
+World Cup,17-03-2001,3,SLO,Planica,Team Flying H.
+World Cup,11-03-2001,1,NOR,Oslo,K115
+World Cup,09-03-2001,4,NOR,Trondheim,K120
+World Cup,07-03-2001,8,SWE,Falun,K120
+World Cup,04-03-2001,6,GER,Oberstdorf,Flying Hill
+World Cup,03-03-2001,1,GER,Oberstdorf,Flying Hill
+World Ski Championships,25-02-2001,4,FIN,Lahti,Team K90
+World Ski Championships,23-02-2001,8,FIN,Lahti,K90
+World Ski Championships,21-02-2001,4,FIN,Lahti,Team K116
+World Ski Championships,19-02-2001,1,FIN,Lahti,K116
+World Cup,04-02-2001,4,GER,Willingen,K145
+World Cup,03-02-2001,7,GER,Willingen,K145
+World Cup,02-02-2001,3,GER,Willingen,Team K145
+World Cup,28-01-2001,4,JPN,Sapporo,K120
+World Cup,27-01-2001,1,JPN,Sapporo,K120
+World Cup,24-01-2001,4,JPN,Hakuba,Large Hill
+World Cup,20-01-2001,1,USA,Park City,K134
+World Cup,19-01-2001,1,USA,Park City,Team K134
+World Cup,14-01-2001,1,CZE,Harrachov,Flying Hill
+World Cup,13-01-2001,7,CZE,Harrachov,Flying Hill

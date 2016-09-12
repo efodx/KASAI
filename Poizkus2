@@ -1,0 +1,9 @@
+from urllib.request import urlopen
+html = urlopen("http://www.shrani.si").read().decode()
+
+def shrani(url, ime_datoteke):
+    r = urlopen(url).read().decode()
+    datoteka = open(ime_datoteke, 'w')
+    datoteka.write(r)
+for i in range(8):
+    shrani('http://data.fis-ski.com/dynamic/athlete-biography.html?sector=JP&competitorid=29533&type=result&bt=prev&limit=100&bt=next&rec_start={stevilo}'.format(stevilo=i*100),'Noriaki{st}'.format(st=str(i)))

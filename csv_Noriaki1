@@ -1,0 +1,97 @@
+kategorija,datum,uvrstitev,drzava,mesto,disciplina
+World Cup,11-01-2014,1,AUT,Tauplitz/Bad Mitterndorf,HS200
+World Cup,06-01-2014,5,AUT,Bischofshofen,HS140
+Qualification,05-01-2014,1,AUT,Bischofshofen,HS140
+World Cup,04-01-2014,7,AUT,Innsbruck,HS130
+Qualification,03-01-2014,2,AUT,Innsbruck,HS130
+World Cup,01-01-2014,6,GER,Garmisch-Partenkirchen,HS140
+Qualification,31-12-2013,1,GER,Garmisch-Partenkirchen,HS140
+World Cup,29-12-2013,6,GER,Oberstdorf,HS137
+Qualification,28-12-2013,2,GER,Oberstdorf,HS137
+World Cup,15-12-2013,3,GER,Titisee-Neustadt,HS142
+World Cup,14-12-2013,6,GER,Titisee-Neustadt,HS142
+World Cup,08-12-2013,4,NOR,Lillehammer,HS138
+World Cup,07-12-2013,1,NOR,Lillehammer,HS100
+Qualification,06-12-2013,9,NOR,Lillehammer,HS100
+World Cup,29-11-2013,5,FIN,Kuusamo,HS142
+Qualification,28-11-2013,1,FIN,Kuusamo,HS142
+World Cup,24-11-2013,2,GER,Klingenthal,HS140
+World Cup,23-11-2013,3,GER,Klingenthal,Team HS140
+Qualification,22-11-2013,1,GER,Klingenthal,HS140
+Grand Prix,24-08-2013,1,JPN,Hakuba,HS131
+Grand Prix,23-08-2013,5,JPN,Hakuba,HS131
+Grand Prix,17-08-2013,3,SUI,Einsiedeln,HS117
+Qualification,16-08-2013,1,SUI,Einsiedeln,HS117
+Grand Prix,15-08-2013,3,FRA,Courchevel,HS132
+Grand Prix,03-08-2013,1,POL,Wisla,HS134
+Qualification,01-08-2013,3,POL,Wisla,HS134
+Grand Prix,28-07-2013,4,GER,Hinterzarten,HS108
+Grand Prix,27-07-2013,1,GER,Hinterzarten,Team HS108
+Qualification,26-07-2013,8,GER,Hinterzarten,HS108
+World Cup,24-03-2013,4,SLO,Planica,HS215
+World Cup,23-03-2013,7,SLO,Planica,Team HS215
+World Cup,22-03-2013,4,SLO,Planica,HS215
+Qualification,21-03-2013,4,SLO,Planica,HS215
+World Cup,17-03-2013,1,NOR,Oslo,HS134
+Qualification,16-03-2013,3,NOR,Oslo,HS134
+World Cup,15-03-2013,1,NOR,Trondheim,HS140
+Qualification,14-03-2013,1,NOR,Trondheim,HS140
+World Cup,12-03-2013,1,FIN,Kuopio,HS127
+Qualification,11-03-2013,9,FIN,Kuopio,HS127
+World Cup,10-03-2013,9,FIN,Lahti,HS130
+World Cup,09-03-2013,5,FIN,Lahti,Team HS130
+Qualification,08-03-2013,2,FIN,Lahti,HS130
+World Ski Championships,02-03-2013,5,ITA,Val di Fiemme,Team HS134
+World Ski Championships,28-02-2013,2,ITA,Val di Fiemme,HS134
+Qualification,27-02-2013,8,ITA,Val di Fiemme,HS134
+World Ski Championships,23-02-2013,3,ITA,Val di Fiemme,HS106
+Qualification,22-02-2013,1,ITA,Val di Fiemme,HS106
+World Cup,20-01-2013,1,JPN,Sapporo,HS134
+World Cup,19-01-2013,1,JPN,Sapporo,HS134
+World Cup,06-01-2013,2,AUT,Bischofshofen,HS140
+Qualification,05-01-2013,1,AUT,Bischofshofen,HS140
+World Cup,04-01-2013,3,AUT,Innsbruck,HS130
+Qualification,03-01-2013,4,AUT,Innsbruck,HS130
+World Cup,01-01-2013,4,GER,Garmisch-Partenkirchen,HS140
+Qualification,31-12-2012,4,GER,Garmisch-Partenkirchen,HS140
+Qualification,29-12-2012,6,GER,Oberstdorf,HS137
+World Cup,16-12-2012,2,SUI,Engelberg,HS137
+World Cup,15-12-2012,2,SUI,Engelberg,HS137
+Qualification,14-12-2012,2,SUI,Engelberg,HS137
+World Cup,09-12-2012,3,RUS,Sochi,HS106
+World Cup,08-12-2012,2,RUS,Sochi,HS106
+Qualification,07-12-2012,1,RUS,Sochi,HS106
+World Cup,01-12-2012,7,FIN,Kuusamo,HS142
+World Cup,30-11-2012,5,FIN,Kuusamo,Team HS142
+Qualification,29-11-2012,5,FIN,Kuusamo,HS142
+World Cup,25-11-2012,1,NOR,Lillehammer,HS138
+World Cup,24-11-2012,1,NOR,Lillehammer,HS100
+Qualification,23-11-2012,3,NOR,Lillehammer,HS100
+Grand Prix,26-08-2012,1,JPN,Hakuba,HS131
+Grand Prix,25-08-2012,3,JPN,Hakuba,HS131
+Qualification,24-08-2012,2,JPN,Hakuba,HS131
+Grand Prix,19-08-2012,1,GER,Hinterzarten,HS108
+Qualification,17-08-2012,4,GER,Hinterzarten,HS108
+Grand Prix,15-08-2012,3,FRA,Courchevel,HS132
+Grand Prix,14-08-2012,1,FRA,Courchevel,Team HS96
+Qualification,19-07-2012,4,POL,Wisla,HS134
+World Cup,17-03-2012,6,SLO,Planica,Team HS215
+World Cup,16-03-2012,2,SLO,Planica,HS215
+Qualification,15-03-2012,1,SLO,Planica,HS215
+World Cup,11-03-2012,2,NOR,Oslo,HS134
+Qualification,10-03-2012,1,NOR,Oslo,HS134
+Qualification,08-03-2012,2,NOR,Trondheim,HS131
+World Cup,08-03-2012,2,NOR,Trondheim,HS131
+World Cup,04-03-2012,2,FIN,Lahti,HS97
+World Cup,03-03-2012,6,FIN,Lahti,Team HS97
+Qualification,02-03-2012,3,FIN,Lahti,HS97
+World Cup,19-02-2012,7,GER,Oberstdorf,Team HS213
+World Cup,18-02-2012,2,GER,Oberstdorf,HS213
+Qualification,17-02-2012,1,GER,Oberstdorf,HS213
+Qualification,14-02-2012,1,GER,Klingenthal,HS140
+World Cup,12-02-2012,3,GER,Willingen,HS145
+World Cup,11-02-2012,4,GER,Willingen,Team HS145
+Qualification,10-02-2012,3,GER,Willingen,HS145
+World Cup,04-02-2012,4,ITA,Val di Fiemme,HS134
+Qualification,03-02-2012,2,ITA,Val di Fiemme,HS134
+World Cup,29-01-2012,3,JPN,Sapporo,HS134
